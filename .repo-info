@@ -1,0 +1,5 @@
+repo: emaildozotti/angela-aline-de-melo
+url: https://github.com/emaildozotti/angela-aline-de-melo
+vercel: https://angela-aline-lp.vercel.app
+git: .git neste diretorio
+push: git push origin main (direto daqui)
